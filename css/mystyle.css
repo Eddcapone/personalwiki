@@ -1,0 +1,48 @@
+﻿body {
+	font-family: Arial, Calibri, Corbel;
+	background-color:#f5f5dc;
+	
+	}
+		
+		
+a {
+color: green;
+}
+
+a:visited {
+color: red;
+}
+		
+table {
+	margin-left:auto;margin-right:auto;
+	vertical-align: middle;
+	
+	border: 5px dashed black;
+	background-color:#ffffff;
+}
+		
+td {
+
+	border: 2px solid black;
+	padding: 0.75em;
+}
+
+caption {
+	font-size: 0.875em;	
+	font-weight: bold;
+}
+
+img{
+	width: 372;
+	height: 210; 
+
+
+}
+
+		
+article.nav {
+
+	background-color:#000000;
+	color: white;
+	
+}
